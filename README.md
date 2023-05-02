@@ -11,7 +11,7 @@
 }
 </style> -->
 
-This project is a note-taking app built using React and Vite. The app allows users to create, edit, and delete notes. The notes are stored locally in the user's browser using the browser's local storage API.
+This project is a note-taking app built using **React** and **Vite**. The app allows users to create, edit, and delete notes. The notes are stored locally in the user's browser using the browser's local storage API.
 
 ## **Table of Contents**
 
