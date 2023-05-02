@@ -3,12 +3,15 @@
 import Header from "./Header";
 import Note from "./Note";
 import Footer from "./Footer";
+import collection from "../components/collection";
 
 function App() {
   return (
     <>
       <Header />
-      <Note />
+      {collection.map((note) => (
+        <Note key={note.id} title={note.title} content={note.content} />
+      ))}
       <Footer />
     </>
   );
