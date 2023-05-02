@@ -1,4 +1,15 @@
-# **Keeper App Project**
+# **Keeper App Project** <img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/>
+
+<!-- 
+<style>
+.react-logo{
+        animation: reactanimation 8s infinite linear;
+}
+@keyframes reactanimation{
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg)
+}
+</style> -->
 
 This project is a note-taking app built using React and Vite. The app allows users to create, edit, and delete notes. The notes are stored locally in the user's browser using the browser's local storage API.
 
@@ -18,7 +29,7 @@ To install and run this app on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-    https://github.com/sohaildotcss/Keeper-App-project.git
+    git clone https://github.com/your-username/keeper-app-project.git
 ```
 
 2. Install the required dependencies by running the following command in the root directory of the project:
